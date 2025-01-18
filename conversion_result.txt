@@ -1,3 +1,4 @@
 Decimal: 235
 Hexadecimal: EB
 Binary: 11101011
+Invalid input. Please enter a decimal number <= 100000.
